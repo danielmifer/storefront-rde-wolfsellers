@@ -1,5 +1,5 @@
-paths.json
-fstab.yaml
+/paths.json
+/fstab.yaml
 
 .hlx/*
 coverage/*
